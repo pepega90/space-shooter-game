@@ -6,6 +6,7 @@ space shooter game, made with C++ and raylib
 
 # Screenshot
 <div style="display:flex">
-  <img src="https://github.com/pepega90/Kkona-shooting-gallery/blob/main/screenshot/img1.jpg" />
-  <img src="https://github.com/pepega90/Kkona-shooting-gallery/blob/main/screenshot/img2.jpg" />
+  <img src="https://github.com/pepega90/space-shooter-game/blob/main/screenshoot/menu_space.jpg" />
+  <img src="https://github.com/pepega90/space-shooter-game/blob/main/screenshoot/space_gameplay.jpg" />
+  <img src="https://github.com/pepega90/space-shooter-game/blob/main/screenshoot/gameover%20space%20new.jpg" />
 </div>
